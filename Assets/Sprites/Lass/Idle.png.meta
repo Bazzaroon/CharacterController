@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: e99b58000e856d94fbac3a6c5a8afa10
+timeCreated: 1481964459
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_0
+    21300002: Idle_1
+    21300004: Idle_2
+    21300006: Idle_3
+    21300008: Idle_4
+    21300010: Idle_5
+    21300012: Idle_6
+    21300014: Idle_7
+    21300016: Idle_8
+    21300018: Idle_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 66.5}
+        - {x: 12, y: 79.5}
+        - {x: -60, y: 79.5}
+        - {x: -64, y: 58.5}
+        - {x: -64, y: -59.5}
+        - {x: -54, y: -77.5}
+        - {x: -50, y: -78.5}
+        - {x: 34, y: -78.5}
+        - {x: 35, y: -68.5}
+        - {x: 36, y: -61.5}
+    - name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 169
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -78.5}
+        - {x: 36, y: 68.5}
+        - {x: 1, y: 79.5}
+        - {x: -51, y: 79.5}
+        - {x: -64, y: 49.5}
+        - {x: -64, y: -17.5}
+        - {x: -53, y: -78.5}
+        - {x: -20, y: -78.5}
+        - {x: -18, y: -76.5}
+        - {x: -18, y: -67.5}
+        - {x: -4, y: -78.5}
+    - name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 169
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 79.5}
+        - {x: -55, y: 76.5}
+        - {x: -64, y: 45.5}
+        - {x: -64, y: -78.5}
+        - {x: 36, y: -78.5}
+        - {x: 36, y: 79.5}
+    - name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 169
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 79.5}
+        - {x: -64, y: 59.5}
+        - {x: -64, y: -75.5}
+        - {x: -57, y: -77.5}
+        - {x: 36, y: -77.5}
+        - {x: 36, y: 57.5}
+        - {x: 3, y: 79.5}
+    - name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 169
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 78.5}
+        - {x: -51, y: 72.5}
+        - {x: -64, y: 36.5}
+        - {x: -64, y: -41.5}
+        - {x: -61, y: -78.5}
+        - {x: 36, y: -78.5}
+        - {x: 36, y: 54.5}
+        - {x: 13, y: 78.5}
+    - name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 78.5}
+        - {x: -35, y: 78.5}
+        - {x: -63, y: 56.5}
+        - {x: -63, y: -49.5}
+        - {x: -57, y: -78.5}
+        - {x: 38, y: -78.5}
+        - {x: 38, y: 52.5}
+        - {x: 22, y: 75.5}
+    - name: Idle_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 78.5}
+        - {x: -51, y: 72.5}
+        - {x: -64, y: 36.5}
+        - {x: -64, y: -41.5}
+        - {x: -61, y: -78.5}
+        - {x: 36, y: -78.5}
+        - {x: 36, y: 54.5}
+        - {x: 13, y: 78.5}
+    - name: Idle_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 79.5}
+        - {x: -64, y: 59.5}
+        - {x: -64, y: -75.5}
+        - {x: -57, y: -77.5}
+        - {x: 36, y: -77.5}
+        - {x: 36, y: 57.5}
+        - {x: 3, y: 79.5}
+    - name: Idle_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 79.5}
+        - {x: -55, y: 76.5}
+        - {x: -64, y: 45.5}
+        - {x: -64, y: -78.5}
+        - {x: 36, y: -78.5}
+        - {x: 36, y: 79.5}
+    - name: Idle_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -78.5}
+        - {x: 36, y: 68.5}
+        - {x: 1, y: 79.5}
+        - {x: -51, y: 79.5}
+        - {x: -64, y: 49.5}
+        - {x: -64, y: -17.5}
+        - {x: -53, y: -78.5}
+        - {x: -20, y: -78.5}
+        - {x: -18, y: -76.5}
+        - {x: -18, y: -67.5}
+        - {x: -4, y: -78.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
